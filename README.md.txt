@@ -15,12 +15,5 @@ This is a simple number guessing game written in Python.
 ## Why I Made This:
 This is my first real Python project. It may be small, but it's part of a much bigger journey I'm building for myself.
 
-## My Korea Plan (TCS Dream):
-- Studying BTech Artificial Intelligence & Data Science
-- Goal: Work at TCS Chennai, then transfer to TCS Korea
-- Learning Python step by step as part of the journey
-
-This repository is part of my personal and professional journey.
-
 Made by  
 Devaprasad
